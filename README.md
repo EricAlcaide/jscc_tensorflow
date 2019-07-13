@@ -1,7 +1,13 @@
 # Tensorflow implementation of dJSCC
 [Deep Joint Source-Channel Coding for Wireless Image Transmission](https://arxiv.org/abs/1809.01733)
 
-Code coming soon. 
+## To-do list: 
+* Create cool Readme and summary of the paper
+* Clean the messy code
+* Upload notebook with the cool plots
+* Upload whole code? idk 
+
+Code coming soon. Expected release date ~ 1st Aug
 
 Potential papers to implement as well: https://arxiv.org/pdf/1802.06832.pdf
 
