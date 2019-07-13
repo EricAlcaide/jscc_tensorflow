@@ -1,5 +1,5 @@
-# Tensorflow implementation of *dJSCC*
-*Deep Joint Source-Channel Coding for Wireless Image Transmission*
+# Tensorflow implementation of dJSCC
+[Deep Joint Source-Channel Coding for Wireless Image Transmission](https://arxiv.org/abs/1809.01733)
 
 Code coming soon. 
 
