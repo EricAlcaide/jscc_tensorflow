@@ -3,6 +3,8 @@
 
 Code coming soon. 
 
+Potential papers to implement as well: https://arxiv.org/pdf/1802.06832.pdf
+
 ## Contribute
 Hey there! New ideas are welcome: open/close issues, fork the repo and share your code with a Pull Request.
 Clone this project to your computer:
